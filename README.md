@@ -1,10 +1,20 @@
-# Calculator-Js
-Calculator JavaScript - Dicoding <br>
-Halo,<br>
-Ini source code salah satu project Web Calculator (Java Script) <br>
+
+# Web-Calculator
+
+Using HTML,CSS and Javascript
+Ini merupakan source code salah satu project Web Calculator (Java Script) <br>
 di kelas <b>"Belajar Fundamental Front-End Web Development"</b> Dicoding.
 
-Preview Tampilan <br><br>
-<img src="assets/img/ss1.png"></img>
-<img src="assets/img/ss2.png"></img>
+## Screenshot 
+## Top side, light color Calculator
+
+![App Screenshot](https://github.com/EbenEzerManurung/Web-Calculator-/blob/main/assets/img/ss1.PNG?raw=true)
+
+
+
+## Down side, dark color Calculator
+
+![App Screenshot](https://github.com/EbenEzerManurung/Web-Calculator-/blob/main/assets/img/ss2.PNG?raw=true)
+
+
 
