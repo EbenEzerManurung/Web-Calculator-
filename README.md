@@ -2,7 +2,7 @@
 # Web-Calculator
 
 Using HTML,CSS and Javascript
-Ini merupakan source code salah satu project Web Calculator (Java Script) <br>
+Ini merupakan source code salah satu project Web Calculator <br>
 di kelas <b>"Belajar Fundamental Front-End Web Development"</b> Dicoding.
 
 ## Screenshot 
